@@ -91,19 +91,3 @@ Contributions are welcome! Feel free to submit a pull request or open an issue f
 3. Commit your changes (`git commit -m "Add some feature"`).
 4. Push to the branch (`git push origin feature-name`).
 5. Open a pull request.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## 💬 Feedback
-
-If you have any feedback or suggestions, feel free to reach out or open an issue in the repository.
-
----
-
-echo "✅ README.md has been generated successfully!"
