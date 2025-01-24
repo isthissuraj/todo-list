@@ -4,6 +4,10 @@ A simple and responsive To-Do List application built with **React**. This projec
 
 ---
 
+<img src="https://github.com/user-attachments/assets/3c9573ee-b5d4-426e-bbe9-fd46d01a4131" alt="Curved Image" width = "720" style="border-radius: 50px;" />
+
+---
+
 ## 🚀 Features
 
 - Add new tasks to your to-do list.
